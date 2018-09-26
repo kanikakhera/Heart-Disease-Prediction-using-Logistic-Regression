@@ -1,0 +1,15 @@
+Input attributes:
+
+Sex (value 1: Male; value 0 : Female)
+Chest Pain Type (value 1: typical type 1 angina, value 2: typical type angina, value 3: non-angina pain; value 4: asymptomatic)
+Fasting Blood Sugar (value 1: > 120 mg/dl; value 0: < 120 mg/dl)
+Restecg – resting electrographic results (value 0: normal; value 1: 1 having ST-T wave abnormality; value 2: showing probable or definite left ventricular hypertrophy)
+Exang – exercise induced angina (value 1: yes; value 0: no)
+Slope – the slope of the peak exercise ST segment (value 1: unsloping; value 2: flat; value 3: downsloping)
+CA – number of major vessels colored by floursopy (value 0 – 3)
+Thal (value 3: normal; value 6: fixed defect; value 7: reversible defect)
+Trest Blood Pressure (mm Hg on admission to the hospital)
+Serum Cholesterol (mg/dl)
+Thalach – maximum heart rate achieved
+Oldpeak – ST depression induced by exercise relative to rest
+Age in Year
